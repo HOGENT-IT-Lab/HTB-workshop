@@ -112,7 +112,7 @@ https://hogent-it-lab.github.io/HTB-workshop/slides <!-- URL naar de slides -->
 
 # HTB-Labs - Machines
 
-- Boxes die je probeert te kraken
+- Boxes die je probeert te kraken (flags!)
 - Divers in aard en moeilijkheid
 - Verbinden met de machines met behulp van een VPN!
 
