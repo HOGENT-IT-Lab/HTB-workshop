@@ -1,8 +1,9 @@
 name: "Export and publish slides"
 on:
+  push:
+    branches: ["main"]
   # Only add manual trigger for now
   workflow_dispatch:
-
 jobs:
   publish:
     runs-on: ubuntu-latest
