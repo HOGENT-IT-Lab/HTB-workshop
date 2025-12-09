@@ -15,8 +15,9 @@ Slides voor HTB workshop van het IT-lab
 
 
 ---
+# Hack The Box
 
-![bg left:100% 80%](./img/logo.png) Plaats voor logo voor openingsslide, foefel gerust met de sizes van de bg
+![bg 40% 30%](./img/icon.jpeg) 
 
 ---
 
