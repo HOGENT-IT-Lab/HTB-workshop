@@ -11,12 +11,12 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 # **WORKSHOP**
 
-Slides voor NAAM workshop van het IT-lab
+Slides voor HTB workshop van het IT-lab
 
 
----
+<!-- ---
 
-![bg left:100% 80%](./img/logo.png) <!-- Plaats voor logo voor openingsslide, foefel gerust met de sizes van de bg -->
+![bg left:100% 80%](./img/logo.png) Plaats voor logo voor openingsslide, foefel gerust met de sizes van de bg -->
 
 ---
 
@@ -27,7 +27,7 @@ https://hogent-it-lab.github.io/NAAMREPOSITORY/slides <!-- URL naar de slides --
 
 ![QR bg right contain](./img/link_qr.png) <!-- QR-code naar de slides -->
 
----
+<!-- ---
 
 # Wat is [WORKSHOP-ONDERWERP]?
 
@@ -42,4 +42,4 @@ https://hogent-it-lab.github.io/NAAMREPOSITORY/slides <!-- URL naar de slides --
 
 - Dit is een tweede slide
 - Je begint nu wel het plaatje te zien
-- Nu kan je copy-pasten en customizen naar hartelust!
+- Nu kan je copy-pasten en customizen naar hartelust! -->
