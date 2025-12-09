@@ -23,7 +23,7 @@ Slides voor HTB workshop van het IT-lab
 
 # Meevolgen op:
 
-https://hogent-it-lab.github.io/NAAMREPOSITORY/slides <!-- URL naar de slides -->
+https://hogent-it-lab.github.io/HTB-workshop/slides <!-- URL naar de slides -->
 
 ![QR bg right contain](./img/link_qr.png) <!-- QR-code naar de slides -->
 
